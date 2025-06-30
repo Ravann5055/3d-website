@@ -1,5 +1,5 @@
 # 3d-website
-Here's a tailored `README.md` for **MiladiCode** portfolio website — specifically optimized for **GitHub Pages** deployment:
+Here's a tailored `README.md` for AdityaInPixels portfolio website — specifically optimized for **GitHub Pages** deployment:
 
 ---
 
